@@ -45,8 +45,7 @@ const App = () => {
       <Costs costs={costs} />
       <p>
         This is opencode, you can 
-        <a href="https://github.com/olhaSlipushchenko/Income_test.git">
-          check it here
+        <a href="https://github.com/olhaSlipushchenko/Income_test.git"> check it here
         </a>
       </p>
     </div>
