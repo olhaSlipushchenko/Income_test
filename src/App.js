@@ -44,7 +44,7 @@ const App = () => {
       <NewCost onAddCost={addCostHandler} />
       <Costs costs={costs} />
       <p>
-        This is opencode, you can
+        This is opencode, you can 
         <a href="https://github.com/olhaSlipushchenko/Income_test.git">
           check it here
         </a>
