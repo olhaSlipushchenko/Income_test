@@ -4,7 +4,7 @@
   align-items: center;
   padding: 0.5rem;
   margin: 1rem 0;
-  background-color: #637990;
+  background-color: #637990e2 ; 
   
 }
 
@@ -30,7 +30,7 @@
   font-size: 1rem;
   font-weight: bold;
   color: #fefae1;
-  background-color: #2a5b84;
+  background-color: #2a842d4d;
   border: 1px solid white;
   padding: 0.5rem;
   border-radius: 12px;
